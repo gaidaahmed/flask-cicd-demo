@@ -1,4 +1,3 @@
-cat > README.md <<'EOF'
 # Flask CI/CD Demo 🚀
 App Flask minimale avec tests PyTest, Dockerfile et pipeline GitHub Actions.
 Image publiée automatiquement sur GitHub Container Registry (GHCR).
